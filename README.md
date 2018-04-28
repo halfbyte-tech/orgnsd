@@ -15,9 +15,9 @@ Keep you organised
 
 ## Possible Names
 
-- orgnsd
-- onTime
-- ǝʇɐן
-- Late, no more!
+- orgnsd *FINAL*
+- ~~onTime~~
+- ~~ǝʇɐן~~
+- ~~Late, no more!~~
 
 
