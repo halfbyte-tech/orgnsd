@@ -20,4 +20,10 @@ Keep you organised
 - ~~ǝʇɐן~~
 - ~~Late, no more!~~
 
+## Fucntions
 
+- Add events (One-off, yearly, monthly (set date or relative date, eg 3rd Thursday), weekly (once a week, or certian days every week) and exceptions for these.
+- Sync with Google Calendar, Microsoft account, etc.
+- Reminders before event
+- Calculate travel time with Google Maps API, and tell users when they need to leave to be on time
+- Add usual travel method for events
