@@ -1,10 +1,10 @@
-###### ORGNSD #######
+# ORGNSD
 
-#### Purpose ####
+## Purpose
 
 Keep you organised
 
-#### Personality/Behavior ####
+## Personality/Behavior
 
 - Organisation freak, constantly on at you (tune down-able).
 - Keep you on time, all the time.
@@ -13,7 +13,7 @@ Keep you organised
 - Can have events programmed in
 - Calendar function
 
-#### Possible Names ####
+## Possible Names
 
 - orgnsd
 - onTime
